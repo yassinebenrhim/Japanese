@@ -27,7 +27,10 @@
   --color-white: #fff;
   --color-creamson: #fff0de;
 }
+/*body{
+cursor : url("arrow2253.png"),auto;
 
+}*/
 * {
   margin: 0;
   padding: 0;
